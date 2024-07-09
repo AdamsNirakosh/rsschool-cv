@@ -5,6 +5,7 @@ body {
     display: flex;
     justify-content: center;
     background-color: #3d5c75;
+    align-items: center;
 }
 .container {
     width: 800px;
@@ -147,7 +148,7 @@ nav a {
     border-radius: 100px;
     position: relative;
     text-shadow: #000 2px 0px 2px, #000 0px 2px 2px, #000 0px -2px 2px, #000 -2px 0px 2px;
-
+    
 }
 
 nav a:hover {
